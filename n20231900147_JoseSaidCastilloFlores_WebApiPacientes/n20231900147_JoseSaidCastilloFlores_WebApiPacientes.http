@@ -1,0 +1,6 @@
+@n20231900147_JoseSaidCastilloFlores_WebApiPacientes_HostAddress = http://localhost:5290
+
+GET {{n20231900147_JoseSaidCastilloFlores_WebApiPacientes_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
